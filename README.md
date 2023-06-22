@@ -1,6 +1,8 @@
 # Preference Exploration
 Code for replicating experiments from the paper, Preference Exploration for Efficient Bayesian Optimization with Multiple Outcomes, published in AISTATS 2022.
 
+Also see https://botorch.org/tutorials/bope for BoTorch's BOPE tutorial.
+
 ## Recreaing figures in the paper
 Folder `plots` contains all figures we used in the paper generated using data under `data/processed`.
 `notebooks/illustrative_plot.ipynb` creates Figure 1.
